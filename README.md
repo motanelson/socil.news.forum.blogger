@@ -1,3 +1,3 @@
-cloud ai sensor check
+gemini api gpt console prompt
 
 
